@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ಶಿಕ್ಷಣ ಇಲಾಖೆ ನೌಕರರ ಸಹಕಾರ ಸಂಘ</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f7f4;
+  text-align: center;
+}
+header {
+  background: #075b37;
+  color: white;
+  padding: 25px 10px;
+}
+nav {
+  background: #e8b923;
+  padding: 12px;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 8px;
+  font-weight: bold;
+}
+section {
+  background: white;
+  margin: 18px;
+  padding: 22px;
+  border-radius: 10px;
+}
+h2 {
+  color: #075b37;
+}
+footer {
+  background: #075b37;
+  color: white;
+  padding: 18px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>ಶಿಕ್ಷಣ ಇಲಾಖೆ ನೌಕರರ ಸಹಕಾರ ಸಂಘ</h1>
+<h3>ಚಿಕ್ಕನಾಯಕನಹಳ್ಳಿ, ತುಮಕೂರು ಜಿಲ್ಲೆ</h3>
+<p>ಸದಸ್ಯರ ಸೇವೆಯೇ ನಮ್ಮ ಧ್ಯೇಯ</p>
+</header>
+
+<nav>
+<a href="#home">ಮುಖಪುಟ</a>
+<a href="#president">ಅಧ್ಯಕ್ಷರ ಸಂದೇಶ</a>
+<a href="#services">ನಮ್ಮ ಸೇವೆಗಳು</a>
+<a href="#contact">ಸಂಪರ್ಕ</a>
+</nav>
+
+<section id="home">
+<h2>ನಮ್ಮ ಸಂಘಕ್ಕೆ ಸ್ವಾಗತ</h2>
+<p>ಶಿಕ್ಷಣ ಇಲಾಖೆ ನೌಕರರ ಆರ್ಥಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಅಭಿವೃದ್ಧಿಗಾಗಿ
+ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುವ ಸಹಕಾರ ಸಂಘ.</p>
+</section>
+
+<section id="president">
+<h2>ಅಧ್ಯಕ್ಷರ ಸಂದೇಶ</h2>
+<p>ನಮ್ಮ ಸಂಘದ ಎಲ್ಲಾ ಸದಸ್ಯರ ವಿಶ್ವಾಸ, ಸಹಕಾರ ಮತ್ತು
+ಸಹಭಾಗಿತ್ವವೇ ಸಂಘದ ಅಭಿವೃದ್ಧಿಯ ಮುಖ್ಯ ಶಕ್ತಿಯಾಗಿದೆ.</p>
+<p>ಸದಸ್ಯರ ಹಿತಾಸಕ್ತಿ ಮತ್ತು ಆರ್ಥಿಕ ಪ್ರಗತಿಗಾಗಿ
+ನಾವು ಸದಾ ಬದ್ಧರಾಗಿದ್ದೇವೆ.</p>
+<p><b>ಇಂತಿ, ಅಧ್ಯಕ್ಷರು</b></p>
+</section>
+
+<section id="services">
+<h2>ನಮ್ಮ ಸೇವೆಗಳು</h2>
+<p>ವೇತನ ಸಾಲ – 10.75%</p>
+<p>ಆಧಾರ ಸಾಲ – 9.75%</p>
+<p>ಠೇವಣಿ ಸೌಲಭ್ಯ</p>
+<p>ಸದಸ್ಯರ ಕಲ್ಯಾಣ ಕಾರ್ಯಕ್ರಮಗಳು</p>
+<p>ಪ್ರತಿಭಾ ಪುರಸ್ಕಾರ</p>
+</section>
+
+<section id="contact">
+<h2>ಸಂಪರ್ಕಿಸಿ</h2>
+<p>ಶಿಕ್ಷಣ ಇಲಾಖೆ ನೌಕರರ ಸಹಕಾರ ಸಂಘ</p>
+<p>ಚಿಕ್ಕನಾಯಕನಹಳ್ಳಿ, ತುಮಕೂರು ಜಿಲ್ಲೆ</p>
+</section>
+
+<footer>
+<p>© 2026 ಶಿಕ್ಷಣ ಇಲಾಖೆ ನೌಕರರ ಸಹಕಾರ ಸಂಘ</p>
+</footer>
+
+</body>
+</html>
